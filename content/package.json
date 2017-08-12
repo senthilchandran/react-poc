@@ -1,0 +1,36 @@
+{
+  "name": "react-poc",
+  "version": "1.0.0",
+  "description": "react proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senthilchandran/react-poc.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "typescript",
+    "sass",
+    "redux",
+    "bootstrap"
+  ],
+  "author": "senthil chandran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/senthilchandran/react-poc/issues"
+  },
+  "homepage": "https://github.com/senthilchandran/react-poc#readme",
+  "dependencies": {
+    "@types/react": "^16.0.2",
+    "@types/react-dom": "^15.5.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "source-map-loader": "^0.2.1",
+    "ts-loader": "^2.3.2",
+    "typescript": "^2.4.2"
+  }
+}
