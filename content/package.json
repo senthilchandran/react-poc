@@ -4,7 +4,7 @@
   "description": "react proof of concept",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "./node_modules/.bin/webpack-dev-server"
   },
   "repository": {
     "type": "git",
@@ -31,6 +31,8 @@
     "react-dom": "^15.6.1",
     "source-map-loader": "^0.2.1",
     "ts-loader": "^2.3.2",
-    "typescript": "^2.4.2"
+    "typescript": "^2.4.2",
+    "webpack": "^3.5.4",
+    "webpack-dev-server": "^2.7.1"
   }
 }
